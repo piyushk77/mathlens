@@ -1,0 +1,1075 @@
+/*................TAG SELECTOR..................*/
+body {
+    font-family: 'Nunito', sans-serif;
+    background-color: #4fd4f7;
+}
+
+/*................ID SELECTOR..................*/
+
+#mathlens {
+    padding-top: 7%;
+    padding-bottom:5%;
+    background-image: url("../images/wave.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    height: 60rem;
+    overflow: hidden;
+}
+
+#features {
+    padding: 5% 5%;
+    background-color: #ffffff;
+}
+
+#primeAlgo {
+    padding: 5% 3%;
+    background-color: #0481d5;
+}
+
+#onlineCalc {
+    padding: 5% 3%;
+    background-color: #ffffff;
+}
+
+#downloads {
+    padding: 6% 3%;
+    background-color: #4fd4f7;
+    overflow: hidden;
+}
+
+#partners {
+    padding:  8% 3% 5%;
+    background-color: #ffffff;
+}
+
+#footer {
+    padding: 5% 3% 0%;
+    background-color: #f5f4f4;
+    /* color: white;
+    background-color: #0c3c84; */
+    
+}
+
+/*................CLASS SELECTOR..................*/
+
+.algo-img {
+    width: 100%;
+    position: relative;
+    right: 8%;
+    transform: rotate(20deg);
+}
+
+.card-indiv {
+    text-align: center;
+    padding: 2% 4%;
+}
+
+.card-indiv h3 {
+    margin:3% 0% 6%;
+    font-family: 'Quicksand', sans-serif;
+}
+
+.card-indiv button {
+    margin-top: 5%;
+    background-color: #0092f4;
+}
+
+.downloads-content {
+    text-align: center;
+}
+
+.downloads-content button {
+    margin-top: -4%;
+}
+
+.downloads-content h2 {
+    margin-top: 5%;
+    font-family: 'Quicksand', sans-serif;
+    padding: 0% 8%;
+    font-size: 3.5rem;
+    font-weight: 800;
+    color: rgb(0, 0, 0);
+}
+
+.downloads-content p {
+    padding: 0% 18%;
+    margin: 5% 0% 15%;
+    color: rgb(52, 52, 52);
+}
+
+.featuresContent {
+    text-align: center;
+}
+
+.featuresContent h2 {
+    font-family: 'Quicksand', sans-serif;
+    font-size: 1.95rem;
+    margin-bottom: 6%;
+    color: black;
+}
+
+.features-indiv {
+    padding: 2%;
+    margin-bottom: 5%;
+}
+
+.features-logo {
+    font-size: 5rem;
+    width: 100%;
+    margin: 2% 0% 10%;
+}
+
+.features-logo:hover {
+    color: #0481d5;
+}
+
+.footer-line {
+    text-align: center;
+    font-size: 1rem;
+    padding: 1% 10%;
+    border-top: 1px solid;
+}
+
+.footer-line a {
+    color: grey;
+}
+
+.footer-mail:hover,.footer-terms:hover, .footer-policy:hover {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
+
+.footer-line-icon {
+    height: 100%;
+    padding-left: 10px;
+}
+
+.footer-line-icon:hover {
+    color: #0091f1;
+}
+
+.footer-logo {
+    padding-top: 3%;
+    padding-right: 5%;
+}
+
+.footer-main {
+    text-align: left;
+}
+
+.footer-logo h2{
+    font-family: 'Quicksand', sans-serif;
+    text-align: right;
+    margin-top: 3%;
+    font-size: 4rem;
+}
+
+.footer-logo h4{
+    font-family: 'Quicksand', sans-serif;
+    text-align: right;
+    font-size: 3rem;
+}
+
+.footer-main h5{
+    font-family: 'Quicksand', sans-serif;
+    font-size: 2rem;
+    margin: 2% 0% 8%;
+}
+
+.footer-text {
+    padding: 2%;
+}
+
+.footer-twitter {
+    padding: 0;
+}
+
+.graph-img, .intersect-img {
+    width: 11.6rem;
+    height: 11.6rem;
+    margin: auto;
+}
+
+.infinityBlue-img {
+    width: 150%;
+    position: relative;
+    margin-top: 11%;
+    left: 10%;
+}
+
+.largeCube {
+    width: 110%;
+    position: relative;
+    transform: rotate(45deg);
+    left: 50%;
+    top: 20%;
+}
+
+.linux-icon {
+    margin-right: 2%;
+    font-size: 2.5rem;
+}
+
+.mainContent {
+    margin: 0% 5%;
+}
+
+.main-logo {
+    font-size: 1.1rem;
+}
+
+.mainText {
+    text-align: center;
+    padding-top: 3%;
+}
+
+.mainText h1 {
+    font-family: 'Quicksand', sans-serif;
+    margin-bottom: 10%;
+    font-size: 5.5rem;
+    font-weight: 800;
+    color: rgb(10, 10, 83);
+}
+
+.mainText p {
+    font-size: 1.3rem;
+    color: rgb(249, 249, 249);
+}
+
+.mathExp-img {
+    width: 7.3rem;
+    height: 11.6rem;
+    margin: auto;
+}
+
+.navigate {
+    padding: 0% 4% 0% 2%;
+    padding-top: 4px;
+    backdrop-filter: blur(10px);
+    position: sticky;
+}
+
+.nav-text a{
+    font-size: 1.1rem;
+    margin-left: 4px;
+}
+
+.partners-content {
+    text-align: center;
+    padding: 0% 30%;
+}
+
+.partners-content h2 {
+    margin: 2% 0% 15%;
+    font-family: 'Quicksand', sans-serif;
+    padding: 0% 8%;
+    font-size: 3.5rem;
+    font-weight: 800;
+    color: rgb(0, 0, 0);
+}
+
+.partners-list {
+    margin-bottom: 10%;
+}
+
+.partners-list div{
+    padding: 3%;
+}
+
+.partners-logo {
+    font-size: 5rem;
+}
+
+.partners-logo-skype {
+    margin-left: 60%;
+}
+
+.partners-logo-xbox {
+    margin-right: 60%;
+}
+
+.pieChart-img {
+    width: 100%;
+    position: relative;
+    right: 40%;
+    transform: rotate(20deg);
+}
+
+.primeAlgo-text {
+    padding: 2% 4%;
+    text-align: right;
+}
+
+.primeAlgo-text h2 {
+    font-family: 'Quicksand', sans-serif;
+    font-size: 4rem;
+    margin-bottom: 6%;
+    color: rgb(255, 255, 255);
+}
+
+.primeAlgo-text p {
+    line-height:1.86;
+    margin-bottom: 8%;
+    font-size: 1.1rem;
+    color: rgb(244, 241, 241);
+}
+
+.smallCube {
+    position: relative;
+    right: 40%;
+    transform: rotate(37deg);
+    width: 60%;
+    top: 20%;
+}
+
+.windows-icon {
+    margin-right: 30%;
+    margin-left: 2%;
+    font-size: 2.5rem;
+}
+
+
+
+
+
+/*................MEDIA QUERY..............*/
+
+
+
+@media (max-width: 600px) {
+    #mathlens {
+        padding-top: 15%;
+        padding-bottom:30%;
+        background-size: 130% 100%;
+        height: 40rem;
+    }
+
+    #primeAlgo {
+        padding: 15% 3%;
+        padding-bottom: 5%;
+    }
+
+    #onlineCalc {
+        padding-top: 20%;
+    }
+
+    .algo-img {
+        width: 40%;
+        position: absolute;
+        right: 80%;
+    }
+
+    .card-indiv {
+        border: none;
+        padding: 10%;
+    }
+
+    .downloads-content button {
+        padding: 1%;
+    }
+
+    .downloads-content h2{
+        font-size: 3rem;
+        padding: 0% 20%;
+    }
+
+    .featuresContent {
+        margin-bottom: 20%;
+    }
+
+    .featuresContent h2{
+        font-size: 1.7rem;
+    }
+
+    .featuresContent p{
+        padding-left: 10%;
+        padding-right: 10%;
+    }
+
+    .footer-logo h2{
+        font-size: 3rem;
+    }
+
+    .footer-logo h4{
+        font-size: 2rem;
+    }
+
+    .footer-text {
+        padding-left: 10%;
+    }
+
+    .footer-text h5 {
+        font-size: 1.5rem;
+    }
+
+    .infinityBlue-img {
+        position: absolute;
+        width: 25%;
+        left: 85%;
+        bottom: 100px;
+    }
+
+    .largeCube {
+        position: absolute;
+        width: 30%;
+        left: 80%;
+        top: 20%;
+    }
+
+    .mainText h1 {
+        margin-bottom: 10%;
+        font-size: 4rem;
+    }
+    
+    .mainText p {
+        font-size: 1.1rem;
+        padding: 0% 10%;
+    }
+
+    .partners-content {
+        padding: 2%;
+    }
+
+    .partners-content h2{
+        padding-left: 10%;
+        padding-right: 10%;
+    }
+
+    .partners-logo {
+        font-size: 4rem;
+    }
+
+    .partners-logo-skype {
+        margin-left: 0%;
+    }
+    
+    .partners-logo-xbox {
+        margin-right: 0%;
+    }
+
+    .pieChart-img {
+        width: 20%;
+        position: absolute;
+        right: 85%;
+        top: 100px;
+    }
+
+    .primeAlgo-text h2 {
+        padding-left: 20%;
+        font-size: 3rem;
+        margin-bottom: 10%;
+    }
+
+    .primeAlgo-text p {
+        font-size: 1rem;
+        padding-left: 15%;
+    }
+
+    .smallCube {
+        position: absolute;
+        right: 93%;
+        bottom: 50%;
+        width: 20%;
+    }
+
+    .windows-icon {
+        margin-right: 20%;
+        margin-left: 2%;
+        font-size: 2.5rem;
+    }
+
+}
+
+@media (min-width: 600px)  and (max-width: 768px) {
+    #mathlens {
+        padding-top: 15%;
+        padding-bottom:30%;
+        background-size: 130% 100%;
+        height: 40rem;
+    }
+
+    #primeAlgo {
+        padding: 15% 3%;
+        padding-bottom: 5%;
+    }
+
+    #onlineCalc {
+        padding-top: 20%;
+    }
+
+    .algo-img {
+        width: 40%;
+        position: absolute;
+        right: 80%;
+    }
+
+    .card-indiv {
+        border: none;
+        padding: 10%;
+    }
+
+    .downloads-content button {
+        padding: 1%;
+    }
+
+    .downloads-content h2{
+        font-size: 3rem;
+        padding: 0% 20%;
+    }
+
+    .featuresContent {
+        margin-bottom: 20%;
+    }
+
+    .featuresContent h2{
+        font-size: 1.7rem;
+    }
+
+    .featuresContent p{
+        padding-left: 10%;
+        padding-right: 10%;
+    }
+
+    .footer-logo {
+        right: 5%;
+    }
+
+    .footer-logo h2{
+        font-size: 3rem;
+    }
+
+    .footer-logo h4{
+        font-size: 2rem;
+    }
+
+    .footer-text {
+        padding-left: 10%;
+    }
+
+    .footer-text h5 {
+        font-size: 1.5rem;
+    }
+
+    .infinityBlue-img {
+        position: absolute;
+        width: 25%;
+        left: 85%;
+        bottom: 100px;
+    }
+
+    .largeCube {
+        position: absolute;
+        width: 30%;
+        left: 80%;
+        top: 20%;
+    }
+
+    .mainText h1 {
+        margin-bottom: 10%;
+        font-size: 4rem;
+    }
+    
+    .mainText p {
+        font-size: 1.1rem;
+        padding: 0% 10%;
+    }
+
+    .partners-content {
+        padding: 2%;
+    }
+
+    .partners-content h2{
+        padding-left: 10%;
+        padding-right: 10%;
+    }
+
+    .partners-logo {
+        font-size: 4rem;
+    }
+
+    .partners-logo-skype {
+        margin-left: 0%;
+    }
+    
+    .partners-logo-xbox {
+        margin-right: 0%;
+    }
+
+    .pieChart-img {
+        width: 20%;
+        position: absolute;
+        right: 85%;
+        top: 100px;
+    }
+
+    .primeAlgo-text h2 {
+        padding-left: 20%;
+        font-size: 3rem;
+        margin-bottom: 10%;
+    }
+
+    .primeAlgo-text p {
+        font-size: 1rem;
+        padding-left: 15%;
+    }
+
+    .smallCube {
+        position: absolute;
+        right: 93%;
+        bottom: 50%;
+        width: 20%;
+    }
+
+    .windows-icon {
+        margin-right: 20%;
+        margin-left: 2%;
+        font-size: 2.5rem;
+    }
+}
+
+@media (min-width: 768px)  and (max-width: 992px){
+    #mathlens {
+        padding-top: 10%;
+        background-size: 140% 100%;
+        height: 70rem;
+        margin-bottom: -1px;
+    }
+
+    #onlineCalc {
+        padding-top: 20%;
+    }
+
+    #primeAlgo {
+        padding: 10% 3%;
+    }
+
+    .algo-img {
+        width: 40%;
+        position: absolute;
+        right: 80%;
+    }
+
+    button.navbar-toggler {
+        outline: none;
+    }
+
+    .card-indiv h3{
+        height: 7rem;
+        font-size: 2.7rem;
+        margin-top: 10%;
+    }
+
+    .card-indiv {
+        border: none;
+        padding: 10%;
+    }
+
+    .card-indiv button {
+        font-size: 1.7rem;
+    }
+
+    .card-indiv .card-body {
+        padding-left: 0%;
+        padding-right: 0%;
+    }
+
+    .card-indiv p{
+        font-size: 1.7rem;
+    }
+
+    .downloads-content button {
+        padding: 1%;
+        font-size: 2rem;
+    }
+
+    .downloads-content h2{
+        font-size: 4.5rem;
+        padding: 0% 20%;
+    }
+
+    .downloads-content p {
+        font-size: 1.7rem;
+    }
+
+    .featuresContent {
+        margin-bottom: 10%;
+    }
+
+    .featuresContent h2 {
+        font-size: 2.8rem;
+        height: 110px;
+    }
+
+    .featuresContent p {
+        margin-top: 13%;
+        padding-left: 10%;
+        padding-right: 10%;
+        font-size: 1.7rem;
+    }
+
+    .features-logo {
+        font-size: 8rem;
+        margin-bottom: 10%;
+    }
+
+    .footer-line {
+        font-size: 1.5rem;
+    }
+
+    .footer-logo {
+        padding-left: 0%;
+        padding-right: 10px;
+        right: 0px;
+    }
+
+    .footer-logo h2 {
+        font-size: 3.3rem;
+    }
+
+    .footer-logo h4 {
+        font-size: 2.5rem;
+    }
+
+    .footer-text {
+        padding-left: 5%;
+    }
+
+    .footer-text h5 {
+        font-size: 2rem;
+        margin-bottom: 20%;
+    }
+
+    .footer-text p {
+        font-size: 1.4rem;
+    }
+
+    .graph-img {
+        width: 80%;
+        height: 80%;
+    }
+
+    .Graphing h3{
+        margin-top: 40px;
+        margin-bottom: 0%;
+    }
+
+    .infinityBlue-img {
+        position: absolute;
+        width: 25%;
+        left: 85%;
+        bottom: 100px;
+    }
+
+    .intersect-img {
+        width: 40%;
+        height: 40%;
+    }
+
+    .largeCube {
+        position: absolute;
+        width: 30%;
+        left: 80%;
+        top: 50px;
+    }
+
+    .linux-icon {
+        font-size: 4rem;
+    }
+
+    .main-logo {
+        font-size: 200%;
+    }
+
+    .mainText h1 {
+        margin-bottom: 5%;
+        font-size: 7.5rem;
+    }
+    
+    .mainText p {
+        font-size: 2rem;
+        padding: 0% 20%;
+    }
+
+    .mathExp-img {
+        width: 49%;
+        height: 60%;
+    }
+
+    .nav-text a{
+        margin:2%;
+        font-size: 250%;
+    }
+
+    .navbar-nav {
+        margin-top: 7%;
+    }
+
+    .navbar-toggler {
+        border: none;
+        font-size: 350%;
+    }
+
+    .partners-content {
+        padding: 2%;
+    }
+
+    .partners-content h2{
+        padding-left: 10%;
+        padding-right: 10%;
+        font-size: 4.5rem;
+    }
+
+    .partners-logo {
+        font-size: 6rem;
+    }
+
+    .partners-logo-skype {
+        margin-left: 0%;
+    }
+    
+    .partners-logo-xbox {
+        margin-right: 0%;
+    }
+
+    .pieChart-img {
+        width: 20%;
+        position: absolute;
+        right: 87%;
+        top: 100px;
+    }
+
+    #primeAlgo p {
+        margin-left: 10%;
+    }
+
+    .primeAlgo-text button {
+        font-size: 200%;
+    }
+
+    .primeAlgo-text h2 {
+        padding-left: 20%;
+        font-size: 4.5rem;
+        margin-bottom: 10%;
+    }
+
+    .primeAlgo-text p {
+        font-size: 1.7rem;
+        padding-left: 15%;
+    }
+
+    .smallCube {
+        position: absolute;
+        right: 93%;
+        bottom: 50%;
+        width: 20%;
+    }
+
+    .square-root i {
+        margin-bottom: 9%;
+    }
+
+    .square-root h2 {
+        margin-bottom: 0%;
+    }
+
+    .square-root p {
+        margin: 0%;
+        padding: 0% 17%;
+    }
+
+    .windows-icon {
+        margin-right: 20%;
+        margin-left: 2%;
+        font-size: 4rem;
+    }
+    
+}
+
+@media (max-width: 1200px) and (min-width: 992px)  {
+    #downloads {
+        padding: 4% 3% 8% 3%;
+        background-color: #4fd4f7;
+        overflow: hidden;
+    }
+
+    #mathlens {
+        padding-top: 5%;
+        padding-bottom:30%;
+        background-size: 100% 100%;
+        height: 40rem;
+    }
+
+    #onlineCalc {
+        padding-top: 10%;
+    }
+
+    #primeAlgo {
+        padding: 15% 3%;
+        padding-bottom: 5%;
+        padding-top: 5%;
+    }
+
+    .algo-img {
+        width: 120%;
+        position: absolute;
+        right: 2%;
+        top: 15%;
+    }
+
+    .card-indiv h3{
+        height: 4.2rem;
+    }
+    
+    .card-indiv {
+        border: none;
+        padding: 10%;
+        padding-left: 0%;
+        padding-right: 0%;
+    }
+
+    .downloads-content button {
+        padding: 1%;
+    }
+
+    .downloads-content h2{
+        font-size: 3rem;
+        padding: 0% 20%;
+    }
+
+    .featuresContent {
+        margin-bottom: 0%;
+    }
+
+    .featuresContent h2{
+        font-size: 1.7rem;
+    }
+
+    .featuresContent p{
+        padding-left: 10%;
+        padding-right: 10%;
+    }
+
+    .features-indiv h2{
+        height: 4.2rem;
+    }
+
+    .footer-line {
+        padding-left: 0%;
+        padding-right: 0%;
+        font-size: 0.9rem;
+    }
+
+    .footer-logo {
+        padding-left: 0%;
+        padding-right: 50px;
+        right: 0px;
+    }
+
+    .footer-logo h2 {
+        font-size: 2.5rem;
+    }
+
+    .footer-logo h4 {
+        font-size: 2rem;
+    }
+
+    .footer-text {
+        padding-left: 3%;
+    }
+
+    .footer-text h5 {
+        font-size: 1.5rem;
+    }
+
+    .infinityBlue-img {
+        position: absolute;
+        width: 140%;
+        left: 20%;
+        bottom: 80px;
+    }
+
+    .largeCube {
+        position: absolute;
+        width: 100%;
+        left: 50%;
+        top: 60%;
+    }
+
+    .mainText h1 {
+        margin-bottom: 10%;
+        font-size: 4rem;
+    }
+    
+    .mainText p {
+        font-size: 1.1rem;
+        padding: 0% 5%;
+    }
+
+    .partners-content {
+        padding: 2%;
+    }
+
+    .partners-content h2{
+        padding-left: 10%;
+        padding-right: 10%;
+    }
+
+    .partners-logo {
+        font-size: 6rem;
+    }
+
+    .partners-logo-skype {
+        margin-left: 0%;
+    }
+    
+    .partners-logo-xbox {
+        margin-right: 0%;
+    }
+
+
+    .pieChart-img {
+        position: absolute;
+        width: 120%;
+        right: 20%;
+        top: 80px;
+    }
+
+    #primeAlgo p {
+        margin-left: 0%;
+    }
+
+    .primeAlgo-text h2 {
+        padding-left: 20%;
+        font-size: 3rem;
+        margin-bottom: 10%;
+    }
+
+    .primeAlgo-text p {
+        font-size: 1rem;
+        padding-left: 15%;
+    }
+
+    .smallCube {
+        position: absolute;
+        right: 70%;
+        width: 50%;
+        bottom: 50%;
+    }
+
+    .windows-icon {
+        margin-right: 20%;
+        margin-left: 2%;
+        font-size: 2.5rem;
+    }
+
+}
+
+@media (min-width: 1200px){
+    .card-indiv h3{
+        height: 4.2rem;
+    }
+
+    .features-indiv h2{
+        height: 4.2rem;
+    }
+}
